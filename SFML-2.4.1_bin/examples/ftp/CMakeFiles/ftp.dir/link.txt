@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/ftp.dir/Ftp.cpp.o  -o ftp -rdynamic ../../lib/libsfml-network.so.2.4.1 ../../lib/libsfml-system.so.2.4.1 -lpthread -lrt -Wl,-rpath,/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/lib: 

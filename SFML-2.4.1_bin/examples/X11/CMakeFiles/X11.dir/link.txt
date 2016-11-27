@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/X11.dir/X11.cpp.o  -o X11 -rdynamic ../../lib/libsfml-window.so.2.4.1 ../../lib/libsfml-system.so.2.4.1 -lGLU -lGL -lSM -lICE -lX11 -lXext -lSM -lICE -lX11 -lXext -lpthread -lrt -lXrandr -ludev -lGL -lX11 -Wl,-rpath,/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/lib: 

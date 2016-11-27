@@ -1,0 +1,16 @@
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/X11/CMakeFiles/X11.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/doc/CMakeFiles/doc.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/ftp/CMakeFiles/ftp.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/opengl/CMakeFiles/opengl.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/pong/CMakeFiles/pong.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/src/SFML/Network/CMakeFiles/sfml-network.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/src/SFML/System/CMakeFiles/sfml-system.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/src/SFML/Window/CMakeFiles/sfml-window.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/shader/CMakeFiles/shader.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/sockets/CMakeFiles/sockets.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/sound/CMakeFiles/sound.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/sound_capture/CMakeFiles/sound-capture.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/voip/CMakeFiles/voip.dir
+/home/hisoka/Desktop/code/devgit/g0d/SFML-2.4.1_bin/examples/window/CMakeFiles/window.dir
